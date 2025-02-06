@@ -7,7 +7,11 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.4.1"
+gem "jekyll", "~> 3.9" # GitHub Pages supports Jekyll 3.9, not 4.x
+gem "github-pages", group: :jekyll_plugins
+gem "minima", "~> 2.5"
+gem "jekyll-remote-theme" # Ensure remote themes work
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
