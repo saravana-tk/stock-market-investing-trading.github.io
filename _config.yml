@@ -22,10 +22,12 @@ title: Stock Market Investing & Trading
 description: "A blog on stock market investing & trading"
 baseurl: "" # Leave blank unless in a subdirectory
 url: "https://saravana-tk.github.io"
-theme: minima # You can change themes later
+# theme: minima # You can change themes later
+remote_theme: jekyll/minima
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
