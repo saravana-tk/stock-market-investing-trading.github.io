@@ -4,7 +4,7 @@
 # Site settings
 title: Stock Market Investing & Trading
 description: "A blog on stock market investing & trading"
-baseurl: ""  # Leave blank unless in a subdirectory
+baseurl: "/stock-market-investing-trading.github.io" # Leave blank unless in a subdirectory
 url: "https://saravana-tk.github.io"
 
 # Theme settings
