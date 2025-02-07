@@ -2,8 +2,8 @@
 # This config file contains site-wide settings.
 
 # Site settings
-title: Stock Market Investing & Trading
-description: "A blog on stock market investing & trading"
+title: Economy, Stock Market Investing & Trading
+description: "A blog on stock market economy stock market investing & trading"
 baseurl: "/stock-market-investing-trading.github.io" # Leave blank unless in a subdirectory
 url: "https://saravana-tk.github.io"
 

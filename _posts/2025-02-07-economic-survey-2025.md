@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "India Economic Survey - 2025"
+title: "Overview of India Economic Survey - 2025"
 date: 2025-02-06 12:00:00 +0530
 categories: Economic survey
 tags: [Stock Market, Economics, India]
